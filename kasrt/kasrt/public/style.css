@@ -1,0 +1,159 @@
+/* import google font */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:ital,wght@0,300;0,700;1,300&display=swap');
+
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    line-height: 1;
+    font-size: 100%;
+    font-family: 'Open Sans', sans-serif;
+    color: #000000;
+}
+
+#container {
+    width: 980px;
+    margin: 0 auto;
+    box-shadow: 0 0 1em #000000;
+}
+
+/* header */
+header {
+    padding: 20px;
+}
+
+header h1 {
+    margin: 20px 10px;
+    color: #2e2727;
+}
+
+/* navigasi */
+nav {
+    background-color: #0400ff;
+    height: 50px;
+    line-height: 50px;
+    position: relative;
+    margin: auto;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li a {
+    float: left;
+    width: 150px;
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+}
+
+nav ul li a.active,
+nav ul li a:hover {
+    background-color: rgb(0, 0, 0);
+    display: block;
+}
+
+/*css untuk menu hover dropdown*/
+nav ul li:hover .sub1 {
+    display: block
+}
+
+nav ul .sub1 {
+    display: none;
+    position: absolute;
+    left: 300px;
+    top: 50px;
+    background-color: #0400ff;
+}
+
+.sub1 a:hover {
+    color: #fff
+}
+
+/* footer */
+footer {
+    clear: both;
+    background-color: #1d1d1d;
+    padding: 20px;
+    color: #eee;
+}
+
+/* Login Wrapper */
+#login-wrapper {
+    align-items: center;
+    width: 500px;
+    margin: 10px;
+    margin-left: 30%;
+    margin-top: 50px;
+    padding: 20px;
+    box-shadow: 0 0 1em #cccccc;
+}
+
+/* Isi */
+h1 {
+    margin-bottom: 20px;
+}
+
+.form-control {
+    width: 100%;
+    padding: 10px;
+    border: 2px solid #cccccc;
+    box-sizing: border-box;
+    font-size: 15px;
+    margin-bottom: 15px;
+}
+
+button[type=submit] {
+    padding: 7px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    box-sizing: border-box;
+    font-size: 15px;
+    border-radius: 4px;
+}
+
+button[type=submit]:active,
+button[type=submit]:hover {
+    opacity: 75%;
+}
+
+/* Tabel Warga */
+body {
+    font-family: sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 20px;
+    width: 95%;
+}
+
+table td {
+    border: 1px solid #000000;
+    font-size: 19px;
+    padding: 10px 8px;
+}
+
+table th {
+    background: #0400ff;
+    color: #ffffff;
+    font-size: 17px;
+    text-align: left;
+    border: 1px solid #000000;
+    padding: 13px 15px;
+}
+
+table tr {
+    background: #ffffff;
+    text-align: left;
+}
+
+tr:hover {
+    background: #e7e7e7;
+}
