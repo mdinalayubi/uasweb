@@ -1,6 +1,8 @@
-| Nama      | Muhammad Din Al Ayubi |
+|       | Anggota |
 | ----------- | ----------- |
-| NIM     | 312210293       |
+|       | Muhammad Din Al Ayubi (312210293) |
+|       | Mohamad Hegar Sukmana Wibowo (312210332) |
+|       | Yudi Fermana (312210321) |
 | Kelas   | TI.22.A.3        |
 | Tugas   | UAS Pemograman Web        |
 
@@ -21,9 +23,13 @@ cd kasrt
 php spark serve
 ```
 ## buka browser dengan alamat address ```http://localhost:8080/```
-| [Demo-on](https://mdinalayubi.000webhostapp.com/) | [YouTube](https://youtu.be/lcaYCRReqBY)
-## Laporan Iuran Kas RT : ```https://drive.google.com/drive/folders/1amnZaZc-E97ImFf4qwkIFln4yH0ZySQy?usp=drive_link```
+| [Demo-on](https://mdinalayubi.000webhostapp.com/) | [YouTube](https://youtu.be/lcaYCRReqBY) | [Laporan](https://drive.google.com/drive/folders/1amnZaZc-E97ImFf4qwkIFln4yH0ZySQy?usp=drive_link)
 ## Hasil Output
-![gambar](imguas/home.png)
-![gambar](imguas/login.png)
 ![gambar](imguas/utama.png)
+![gambar](imguas/login.png)
+![gambar](imguas/datawarga.png)
+![gambar](imguas/tambahwarga.png)
+![gambar](imguas/kaswarga.png)
+![gambar](imguas/jumlahkas.png)
+![gambar](imguas/laporankas.png)
+![gambar](imguas/tambahiuran.png)
