@@ -4,8 +4,8 @@
 | 312210332 | Mohamad Hegar Sukmana Wibowo | https://github.com/hegarr        |
 | 312210321 | Yudi Fermana                 | https://github.com/yudifermana   |
 | --------- | ---------------------------- | -------------------------------- |
-| Kelas     | TI.22A.3                     |
-| Tugas     | Pemograman Web 1 UAS         |
+| KELAS     | TI.22A.3                     |
+| TUGAS     | Pemograman Web 1 UAS         |
 
 # APLIKASI IURAN KAS RT
 Menggunakan CoIgniter Dan Gitbash Atau Terminal Di Visual Studio Code
