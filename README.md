@@ -1,8 +1,8 @@
 |       | Anggota |
 | ----------- | ----------- |
 |       | Muhammad Din Al Ayubi (312210293) |
-|       | Mohamad Hegar Sukmana Wibowo (312210332) |
 |       | Yudi Fermana (312210321) |
+|       | Mohamad Hegar Sukmana Wibowo (312210332) |
 | Kelas   | TI.22.A.3        |
 | Tugas   | UAS Pemograman Web        |
 
