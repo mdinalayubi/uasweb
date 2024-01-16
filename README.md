@@ -1,10 +1,11 @@
-|          | Anggota                                  |
-| -------- | -----------                              |
-|          | Muhammad Din Al Ayubi (312210293)        |
-|          | Mohamad Hegar Sukmana Wibowo (312210332) |
-|          | Yudi Fermana (312210321)                 |
-| Kelas    | TI.22.A.3                                |
-| Tugas    | UAS Pemograman Web                       |
+| NIM       | Anggota                      | GitHub         |
+| --------- | ---------------------------- | -------------- |
+| 312210293 | Muhammad Din Al Ayubi        | @mdinalayubi   |
+| 312210332 | Mohamad Hegar Sukmana Wibowo | @hegarr        |
+| 312210321 | Yudi Fermana                 | @yudifermana   |
+| --------- | ---------------------------- | -------------- |
+| Kelas     | TI.22A.3                     |
+| Tugas     | Pemograman Web 1 UAS         |
 
 # APLIKASI IURAN KAS RT
 Menggunakan CoIgniter Dan Gitbash Atau Terminal Di Visual Studio Code
