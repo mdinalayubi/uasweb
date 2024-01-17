@@ -3,7 +3,6 @@
 | 312210293 | Muhammad Din Al Ayubi        | https://github.com/mdinalayubi   |
 | 312210332 | Mohamad Hegar Sukmana Wibowo | https://github.com/hegarr        |
 | 312210321 | Yudi Fermana                 | https://github.com/yudifermana   |
-| --------- | ---------------------------- | -------------------------------- |
 | Kelas     | TI.22A.3                     |
 | Tugas     | Pemograman Web 1 UAS         |
 
